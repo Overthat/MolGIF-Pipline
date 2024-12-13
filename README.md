@@ -9,4 +9,6 @@
   |- Complex Free Energy File (txt file)
   |- src
     |- ...
+  |- frames
+  |- GIFs
 ```
